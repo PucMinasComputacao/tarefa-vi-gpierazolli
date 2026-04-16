@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: whitesmoke;
+}
+
+.logo {
+  width: 70px;
+}
+
+h1 {
+  color: darkcyan;
+  font-size: 26px;
+}
+
+.menu a {
+  color: darkcyan;
+  font-weight: 500;
+}
+
+.card {
+  border-radius: 12px;
+}
+
+.card img {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+footer {
+  background-color: white;
+}
+
+footer p {
+  color: gray;
+  margin: 0;
+}
